@@ -2,11 +2,8 @@
 
 !*/
 
-!finetune_gemma2_9B_bnb_multiGPU.py
-!eval_gemma2_9B_bnb_defined_true_vllm.py
-!eval_gemma2_9B_bnb_inverse_roundtrip_vllm.py
-!data/merged_shuffled_train_8_geometries.json
-!data/merged_shuffled_test_8_geometries.json
-!data/merged_shuffled_train_8_geometries_inverse.json
-!duplicate_merge_and_shuffle.m
+!./finetune_gemma2_9B_bnb_multiGPU.py
+!./eval_gemma2_9B_bnb_defined_true_vllm.py
+!./eval_gemma2_9B_bnb_inverse_roundtrip_vllm.py
+!./duplicate_merge_and_shuffle.m
 !.gitignore
