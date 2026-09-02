@@ -2,6 +2,8 @@
 
 This repository contains data-preparation, fine-tuning, and evaluation scripts for using Gemma 2 as a surrogate model for multiple metasurface geometries. The scripts work with JSON records containing `instruction`, `input`, and `output` fields and support both forward optical-response prediction and inverse-design evaluation.
 
+This repository provides the data-preparation, fine-tuning, and evaluation code associated with these works.
+
 ## Related Publications
 
 The research associated with this project has been published in the following articles:
@@ -9,7 +11,6 @@ The research associated with this project has been published in the following ar
 * [Zhang, Huanshu, et al. "Towards a universal meta-optics solver via large language models." arXiv preprint arXiv:2608.26417 (2026).](https://doi.org/10.48550/arXiv.2608.26417)
 * [Zhang, Huanshu, et al. "Towards a universal meta-optics solver via large language models." Nano Letters (2026).](https://doi.org/10.1021/acs.nanolett.6c03323)
 
-This repository provides the data-preparation, fine-tuning, and evaluation code associated with these works.
 
 ## Code overview
 
